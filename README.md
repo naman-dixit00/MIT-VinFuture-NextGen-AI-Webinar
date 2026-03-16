@@ -1,3 +1,9 @@
+
+<figure>
+  <img src="https://github.com/naman-dixit00/MIT-VinFuture-NextGen-AI-Webinar/blob/main/Metadata/MIT%20SEMINAR.png">
+  <figcaption align="center"><i>MIT Vin Future Next Gen AI Webinar</i></figcaption>
+</figure>
+
 # Next-Generation AI and the Era of Autonomous Agents
 
 ## VinFuture Innovatalk Webinar Series 2026
