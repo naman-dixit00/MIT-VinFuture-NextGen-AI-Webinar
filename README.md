@@ -24,10 +24,7 @@ This repository serves as a formal documentation hub for the **VinFuture Innovat
 
 ### ⚖️ Disclaimer & Copyright Notice
 
-* **Purpose:** Yeh repository keval personal reference aur academic study ke liye banayi gayi hai.
-* **Redistribution:** Is repository ke madhyam se kisi bhi proprietary content ko redistribute karne ka koi irada nahi hai.
-* 
-**Copyright:** Is webinar series se judi sabhi samagri (materials), presentations, aur intellectual property ke copyrights **VinFuture Foundation** aur **MIT CSAIL** ke paas hi reserved hain.
-
-
+* **Purpose:** This repository has been created solely for personal reference and academic study.
+* **Redistribution:** There is no intention to redistribute any proprietary content through this repository.
+* **Copyright:** All copyrights for materials, presentations, and intellectual property related to this webinar series remain reserved by the **VinFuture Foundation** and **MIT CSAIL**.
 * **Fair Use:** All documentation is intended to serve as a structured research log for the participant and does not claim ownership over the presented concepts or webinar media.
